@@ -1,6 +1,6 @@
 # SwiftUI Multiplication Table App
 
-This project is a **SwiftUI** application that allows users to generate a multiplication table by entering a number. The app provides a user-friendly interface with dynamic UI elements and modern SwiftUI features.
+I created this **SwiftUI** application to allow users to generate a multiplication table by entering a number. The app features a user-friendly interface with dynamic UI elements and modern SwiftUI capabilities.
 
 ## Features
 
@@ -24,7 +24,7 @@ This project is a **SwiftUI** application that allows users to generate a multip
 To get started, clone the repository using:
 
 ```sh
-git clone https://github.com/yourusername/SwiftUI_MultiplicationTable.git
-cd SwiftUI_MultiplicationTable
+git clone https://github.com/Gone-M/swiftUI_storyboard_ex7.git
+cd table_app_x
 ```
 
